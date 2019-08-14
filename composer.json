@@ -1,0 +1,14 @@
+{
+    "name": "jamie/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "pusher/pusher-php-server": "^3.4",
+        "vlucas/phpdotenv": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "jamie sanderson",
+            "email": "admin@nject.co.uk"
+        }
+    ]
+}
